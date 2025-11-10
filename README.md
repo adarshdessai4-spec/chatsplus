@@ -1,4 +1,4 @@
-<h1 align="center">👻 Snapchat Clone</h1>
+<h1 align="center">👻 Chats Plus</h1>
 
 <div align="center">
   <img src="./public/readme/tech-logos/react.svg" width="55" alt="React" />
